@@ -19,4 +19,4 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Passwd")
-![Alt text](./clone-facebook.png "Cloned facebook")
+![Alt text](./cloned-facebook.png "Cloned facebook")
