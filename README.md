@@ -20,4 +20,3 @@
 
 ![Alt text](./passwd.png "Passwd")
 ![Alt text](./clone-facebook.png "Cloned facebook")
-![Alt text](./terminal-kali.png "Terminal kali")
